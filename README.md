@@ -4,7 +4,7 @@
 
 In this simple app you can exchange **Euro** to the following currencies :
 
-- USD Dollar
+- US Dollar
 - British Pound
 - Chinese Yuan
 - Canadian Dollar
