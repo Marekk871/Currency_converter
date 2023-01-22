@@ -51,6 +51,7 @@
     padding: 20px;
     margin: 20px 10px;
     background-color: rgb(231, 232, 243);
+    box-shadow: 5px 0px 24px 0px #696071;
 }
 
 .form__legend {
